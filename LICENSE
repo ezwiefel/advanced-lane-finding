@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2016-2018 Udacity, Inc.
+Copyright (c) 2021 Erik Zwiefel
+
+Based on Udacity code from https://github.com/udacity/CarND-Advanced-Lane-Lines - Commit: 92d13c19d7812954c3f9a57f029cfdaf8a057484
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
