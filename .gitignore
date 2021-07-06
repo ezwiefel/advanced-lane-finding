@@ -503,8 +503,8 @@ ASALocalRun/
 
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
-
 # MFractors (Xamarin productivity tool) working folder
+
 .mfractor/
 
 # Local History for Visual Studio
@@ -524,3 +524,4 @@ FodyWeavers.xsd
 
 **/.idea
 **/.DS_Store
+/data/calibration.pkl
